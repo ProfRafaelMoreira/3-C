@@ -1,1 +1,3 @@
-# 3-C
+# 3-C  🌴 💙
+
+Repositorio criado para utilizar o JavaScript
